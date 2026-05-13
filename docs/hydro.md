@@ -54,6 +54,7 @@ reflect actual operational stress rather than arbitrary percentages.
   <p><em>Annual hydro trajectories: historical (2000–2023) → future scenarios (2025–2050)</em></p>
 </div>
 
+
 ---
 
 ## Planning Applications
