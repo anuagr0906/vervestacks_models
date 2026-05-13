@@ -1,7 +1,7 @@
 # IND — VerveStacks ESOM Model
 
 !!! info "Model Run"
-    **Generated:** 2026-05-13 18:18:31  |  **ISO Code:** `IND`
+    **Generated:** 2026-05-13 19:24:26  |  **ISO Code:** `IND`
 
 ---
 
@@ -91,8 +91,8 @@ available. Grid locations of all these units are preserved.
 | **Total Plants Processed** | 2613 plants in database |
 | **Missing Capacity Added** | - **IRENA data**:
   - **solar**: 1.1 GW
-  - **bioenergy**: 9.99 GW
   - **hydro**: 3.43 GW
+  - **bioenergy**: 9.99 GW
   - **windon**: 8.92 GW
 - **EMBER data**:
   - **gas**: 1.39 GW |
