@@ -1,7 +1,7 @@
-# IND — VerveStacks ESOM Model
+# IND — VerveStacks Model
 
-!!! info "Model Run"
-    **Generated:** 2026-05-13 19:32:14  |  **ISO Code:** `IND`
+!!! info "Model Info"
+    **Generated:** 2026-05-25 18:31:53  |  **ISO Code:** `IND`
 
 ---
 
@@ -24,7 +24,7 @@
 | **Fuel Type** | **Threshold** | **Plants Above Threshold** | **Active Capacity** | **Mothballed Capacity** | **Wtd Avg Efficiency** |
 |---------------|---------------|----------------------------|--------------------|--------------------------|-----------------|
 | 🌱 **Bioenergy** | 50 MW | 20/30 plants | 10.7 GW | — | 34.2% |
-| ⚫ **Coal** | 500 MW | 316/728 plants | 273 GW | 0.581 GW | 37.1% |
+| ⚫ **Coal** | 500 MW | 316/728 plants | 273 GW | 0.582 GW | 37.1% |
 | 🔥 **Gas** | 500 MW | 18/106 plants | 32.6 GW | — | 48.7% |
 | 💧 **Hydro Power** | 110 MW | 137/235 plants | 58 GW | 2.97 GW | 94% |
 | ⚛️ **Nuclear** | — | 31/31 plants | 13.4 GW | 0.64 GW | 100% |
@@ -90,9 +90,9 @@ available. Grid locations of all these units are preserved.
 | **Plants Above Threshold** | 1836 individual plants tracked |
 | **Total Plants Processed** | 2613 plants in database |
 | **Missing Capacity Added** | - **IRENA data**:
-  - **solar**: 1.1 GW
-  - **bioenergy**: 9.99 GW
   - **hydro**: 3.43 GW
+  - **bioenergy**: 9.99 GW
+  - **solar**: 1.1 GW
   - **windon**: 8.92 GW
 - **EMBER data**:
   - **gas**: 1.39 GW |
