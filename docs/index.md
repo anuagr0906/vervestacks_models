@@ -1,7 +1,7 @@
 # IND — VerveStacks Model
 
 !!! info "Model Info"
-    **Generated:** 2026-05-25 18:31:53  |  **ISO Code:** `IND`
+    **Generated:** 2026-06-03 22:34:54  |  **ISO Code:** `IND`
 
 ---
 
@@ -92,8 +92,8 @@ available. Grid locations of all these units are preserved.
 | **Missing Capacity Added** | - **IRENA data**:
   - **hydro**: 3.43 GW
   - **bioenergy**: 9.99 GW
-  - **solar**: 1.1 GW
   - **windon**: 8.92 GW
+  - **solar**: 1.1 GW
 - **EMBER data**:
   - **gas**: 1.39 GW |
 
